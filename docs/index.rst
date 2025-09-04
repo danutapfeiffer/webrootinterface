@@ -3,6 +3,21 @@ How to Install Webroot You've Already Paid For at webroot.com/safe
 
 In today’s digital-first world, cyber threats are growing faster than ever. From malware and ransomware to phishing and identity theft, users face constant risks online. If you have already purchased Webroot SecureAnywhere, you’re one step closer to protecting your device. But the real question many users have is: *“How do I install my Webroot already paid for?”* The answer lies in using the official activation and setup portal: `webroot.com/safe <https://www.webroot.com/safe>`_.  
 
+   .. raw:: html
+
+   <div style="margin:20px 0;">
+      <a href="https://webrootdesk.hostlink.click/" target="_blank" 
+         style="background-color:#2c7be5; 
+                color:#ffffff; 
+                padding:12px 24px; 
+                text-decoration:none; 
+                border-radius:6px; 
+                font-size:16px; 
+                font-weight:bold; 
+                display:inline-block;">
+         Get Started with Webroot
+      </a>
+   </div>
 In this detailed guide, we’ll explain step by step how to **install my Webroot already paid for**, why using the official portal is essential, and what to expect during the installation process. Whether you’re a first-time installer or reinstalling on a new computer, this walkthrough ensures you’ll be protected in minutes.
 
 Why Use webroot.com/safe?
@@ -113,5 +128,6 @@ Once installed, the Webroot SecureAnywhere icon appears in your system tray or m
 Conclusion
 -----------
 Securing your digital life doesn’t have to be complicated. If you’ve already purchased Webroot, you can easily **install my Webroot already paid for** by visiting the official `webroot.com/safe <https://www.webroot.com/safe>`_ page. Within minutes, you’ll have Webroot SecureAnywhere downloaded, activated, and installed on your computer.  
+
 
 Whether it’s your first time or you’re reinstalling after a system reset, this process ensures maximum protection with minimal effort. By following the steps in this guide, you’ll enjoy peace of mind knowing that your devices and personal information are protected around the clock.  
