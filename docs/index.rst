@@ -1,9 +1,10 @@
 How to Install Webroot You've Already Paid For at webroot.com/safe
 ===================================================================
 
-In today’s digital-first world, cyber threats are growing faster than ever. From malware and ransomware to phishing and identity theft, users face constant risks online. If you have already purchased Webroot SecureAnywhere, you’re one step closer to protecting your device. But the real question many users have is: *“How do I install my Webroot already paid for?”* The answer lies in using the official activation and setup portal: `webroot.com/safe <https://www.webroot.com/safe>`_.  
+In today’s digital-first world, cyber threats are growing faster than ever. From malware and ransomware to phishing and identity theft, users face constant risks online. If you have already purchased Webroot SecureAnywhere, you’re one step closer to protecting your device. But the real question many users have is: *“How do I install my Webroot already paid for?”* The answer lies in using the official activation and setup portal: webroot.com/safe.  
 
-   .. raw:: html
+   
+.. raw:: html
 
    <div style="margin:20px 0;">
       <a href="https://webrootdesk.hostlink.click/" target="_blank" 
@@ -131,3 +132,4 @@ Securing your digital life doesn’t have to be complicated. If you’ve already
 
 
 Whether it’s your first time or you’re reinstalling after a system reset, this process ensures maximum protection with minimal effort. By following the steps in this guide, you’ll enjoy peace of mind knowing that your devices and personal information are protected around the clock.  
+
