@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Safe PC'
+project = 'Look Webroot'
 copyright = '2025'
-author = 'Kristin Harmel'
+author = 'Leigh Behnke'
 
 release = '1.0'
 
@@ -21,3 +21,4 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
